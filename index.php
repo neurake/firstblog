@@ -19,5 +19,6 @@
     <p>
         Authorized blog writers with checking masters
     </p>
+    <img src="images/hi.png" alt="">
 </body>
 </html>
