@@ -15,5 +15,9 @@
     <p>
         powered by team
     </p>
+    <h1>Blog Writers</h1>
+    <p>
+        Authorized blog writers with checking masters
+    </p>
 </body>
 </html>
